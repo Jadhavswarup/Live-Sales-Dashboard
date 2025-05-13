@@ -37,4 +37,4 @@ Watch the [screen recording](./Screen%20Recording%202025-05-13%20205314.mp4) for
 
  📷 Screenshort
 
- https://github.com/Jadhavswarup/Live-Sales-Dashboard/blob/main/Screenshot%20(9).png
+ ![dashboard screenshot](https://github.com/Jadhavswarup/Live-Sales-Dashboard/blob/main/Screenshot%20(9).png)
