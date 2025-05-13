@@ -34,3 +34,7 @@ Watch the [screen recording](./Screen%20Recording%202025-05-13%20205314.mp4) for
 - Vienna contributed to over 67% of the total sales.
 - Sales performance varied significantly across regions.
 - Monthly trends help identify high and low performing periods.
+
+ 📷 Screenshort
+
+ https://github.com/Jadhavswarup/Live-Sales-Dashboard/blob/main/Screenshot%20(9).png
