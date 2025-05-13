@@ -2,6 +2,7 @@
 
 # 📊 Sales Report Dashboard
 
+This repository contains an interactive and professional **Power BI dashboard** that delivers actionable insights into an organization’s financial performance across "Sales", "Profit", and "Units Sold".
 This project showcases an interactive **Sales Report Dashboard** that visualizes key business metrics, such as sales and profit, across different countries and states. The dashboard appears to be developed in a BI tool like Power BI or Excel.
 
 ## 📽️ Demo
