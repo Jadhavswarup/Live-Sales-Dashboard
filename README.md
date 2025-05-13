@@ -7,9 +7,8 @@ This project showcases an interactive **Sales Report Dashboard** that visualizes
 
 ## 📽️ Demo
 
-![Dashboard Preview](frames/frame_1.png)
 
-Watch the [screen recording](./Screen%20Recording%202025-05-13%20205314.mp4) for a quick walkthrough.
+Watch the [https://github.com/Jadhavswarup/Live-Sales-Dashboard/blob/main/Screen%20Recording%202025-05-13%20205314.mp4) for a quick walkthrough.
 
 ## 📌 Features
 
